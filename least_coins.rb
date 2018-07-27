@@ -1,7 +1,6 @@
 #write out your code here
 
 def least_coins(cents)
-
-#Code your answer here!
-
+puts "How much money do you need?"
+money = gets.chomp.to_i
 end
